@@ -63,7 +63,7 @@ function get_arch() {
 function set_strings() {
     CHROOT=kali-${SYS_ARCH}
     IMAGE_NAME=kalifs-${SYS_ARCH}-full.tar.xz
-    SHA_NAME=kalifs${SYS_ARCH}-full.sha512sum
+    SHA_NAME=kalifs-${SYS_ARCH}-full.sha512sum
 }    
 
 function prepare_fs() {
