@@ -5,7 +5,7 @@ This is a script by which you can install Kali Nethunter (Kali Linux) in your te
 ### Steps For Installation
 ### Install Kali Nethunter Full Version
 1. Install Dependencies In Termux `pkg update -y && pkg install wget -y`
-2. Download Script In **HOME** `wget https://raw.githubusercontent.com/rc-chuah/Kali-Nethunter-In-Termux/master/install-nethunter-full-termux`
+2. Download Script In **HOME** `wget https://raw.githubusercontent.com/gapracoolz/Kali-Nethunter-In-Termux/master/install-nethunter-full-termux`
 3. Give Execution Permission `chmod +x install-nethunter-full-termux`
 4. Run Script `./install-nethunter-full-termux`
 5. Now Just Start Kali Nethunter `nethunter`
