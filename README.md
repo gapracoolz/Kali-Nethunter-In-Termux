@@ -11,13 +11,13 @@ This is a script by which you can install Kali Nethunter (Kali Linux) in your te
 5. Now Just Start Kali Nethunter `nethunter`
 ### Install Kali Nethunter Minimal Version
 1. Install Dependencies In Termux `pkg update -y && pkg install wget -y`
-2. Download Script In **HOME** `wget https://raw.githubusercontent.com/rc-chuah/Kali-Nethunter-In-Termux/master/install-nethunter-minimal-termux`
+2. Download Script In **HOME** `wget https://raw.githubusercontent.com/gapracoolz/Kali-Nethunter-In-Termux/master/install-nethunter-minimal-termux`
 3. Give Execution Permission `chmod +x install-nethunter-minimal-termux`
 4. Run Script `./install-nethunter-minimal-termux`
 5. Now Just Start Kali Nethunter `nethunter`
 ### Install Kali Nethunter Nano Version
 1. Install Dependencies In Termux `pkg update -y && pkg install wget -y`
-2. Download Script In **HOME** `wget https://raw.githubusercontent.com/rc-chuah/Kali-Nethunter-In-Termux/master/install-nethunter-nano-termux`
+2. Download Script In **HOME** `wget https://raw.githubusercontent.com/gapracoolz/Kali-Nethunter-In-Termux/master/install-nethunter-nano-termux`
 3. Give Execution Permission `chmod +x install-nethunter-nano-termux`
 4. Run Script `./install-nethunter-nano-termux`
 5. Now Just Start Kali Nethunter `nethunter`
